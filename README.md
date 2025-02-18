@@ -23,18 +23,39 @@ Implementación de una calculadora que convierte expresiones infix a postfix y l
 
 ## Estructura del Proyecto
 
-```
 src/
 ├── main/
 │   ├── java/
 │   │   └── ht4/
-│   │       ├── calculator/
-│   │       ├── stack/
-│   │       ├── list/
-│   │       ├── factory/
-│   │       └── utils/
+│   │       ├── calculator/          [FATIMA]
+│   │       │   ├── Calculator.java
+│   │       │   ├── Main.java
+│   │       │   └── FileReader.java
+│   │       │
+│   │       ├── stack/              [EMILIO]
+│   │       │   ├── IStack.java
+│   │       │   ├── AbstractStack.java
+│   │       │   ├── ArrayListStack.java
+│   │       │   ├── VectorStack.java
+│   │       │   └── ListStack.java
+│   │       │
+│   │       ├── list/               [ARTURO]
+│   │       │   ├── IList.java
+│   │       │   ├── AbstractList.java
+│   │       │   ├── SingleLinkedList.java
+│   │       │   └── DoubleLinkedList.java
+│   │       │
+│   │       ├── factory/            [COMPARTIDO]
+│   │       │   ├── StackFactory.java
+│   │       │   └── ListFactory.java
+│   │       │
+│   │       └── utils/              [COMPARTIDO]
+│   │           └── Operator.java
+│   │
 │   └── resources/
 │       └── datos.txt
 └── test/
-    └── java/
-```
+    └── java/                       [CADA UNO SUS PRUEBAS]
+        ├── CalculatorTest.java     [FATIMA]
+        ├── StackTest.java          [EMILIO]
+        └── ListTest.java           [ARTURO]
