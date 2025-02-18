@@ -1,3 +1,20 @@
+/*******************************************************************************
+* @author Fatima Navarro 24044
+* 
+* Universidad del Valle de Guatemala
+* Algoritmos y Estructura de Datos
+* Sección: 10
+* 
+* HT4 - Clases y Objetos con Java
+* Calculadora Infix/Postfix
+* 
+* FileReader.java
+* Esta clase se encarga de leer las expresiones matemáticas desde el archivo datos.txt
+* 
+* Fecha: 16/02/2025
+*******************************************************************************/
+
+
 package ht4.calculator;
 
 import java.io.IOException;
