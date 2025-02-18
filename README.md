@@ -2,6 +2,11 @@
 
 Implementación de una calculadora que convierte expresiones infix a postfix y las evalúa utilizando diferentes estructuras de datos y patrones de diseño.
 
+## Diagrama de clases
+
+![image](https://github.com/user-attachments/assets/9a6cfe68-2e34-45a5-87a7-d923e076327c)
+
+
 ## Integrantes
 - **Emilio** - Estructuras Base
 - **Fatima Navarro 24044** - Lógica Principal
