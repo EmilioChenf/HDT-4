@@ -4,7 +4,8 @@ Implementación de una calculadora que convierte expresiones infix a postfix y l
 
 ## Diagrama de clases
 
-![image](https://github.com/user-attachments/assets/35d7eff5-01b4-4165-bce1-0876e9b8369c)
+![image](https://github.com/user-attachments/assets/97c2d75b-9fe0-4728-b7fb-05e2fee186de)
+
 
 
 
